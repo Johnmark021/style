@@ -1,0 +1,16 @@
+.header {
+    background: #de7a0e;
+}
+.menu a{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.25rem;
+}
+.nav_link{
+    color: #000000;
+}
+.nav_link:hover {
+    color: #ddd5d5;
+}

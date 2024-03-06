@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600&display=swap');
+
+.header {
+    background: #212529;
+}
+.menu a{
+    color: rgb(255, 254, 254);
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.nav_link{
+    color: #f5efef;
+}
+.nav_link:hover{
+    color: #f40e0e;
+}
+.price-1{
+    font-weight: 500;
+    font-size: 3rem;
+}
